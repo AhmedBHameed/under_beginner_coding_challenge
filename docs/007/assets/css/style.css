@@ -1,0 +1,29 @@
+html {
+  direction: rtl;
+}
+
+.center {
+  text-align: center;
+}
+
+table {
+  border-collapse: collapse;
+  margin: 0 auto;
+}
+
+th,
+td {
+  border: 1px solid black;
+}
+
+.table_header {
+  color: blue;
+}
+
+.pass {
+  color: green;
+}
+
+.fail {
+  color: red;
+}
