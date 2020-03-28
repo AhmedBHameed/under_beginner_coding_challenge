@@ -19,3 +19,4 @@
 ### **_الواجبات البيتية_**
 
 - [004- واجب عمل الForm](homeworks/004/Readme.md)
+- [007- عمل الجدول مع تنسيق CSS](homeworks/007/Readme.md)
