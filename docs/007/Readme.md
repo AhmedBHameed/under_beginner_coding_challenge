@@ -1,6 +1,6 @@
 ## تعلم كتابة استمارة معلومات بلغة HTML
 
-> March 21,2020 / March 22,2020 / March 23,2020
+> March {docsify-updated}
 
 ```html
 <!DOCTYPE html>
