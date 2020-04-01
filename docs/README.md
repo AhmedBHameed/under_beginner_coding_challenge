@@ -20,3 +20,4 @@
 
 - [004- واجب عمل الForm](homeworks/004/Readme.md)
 - [007- عمل الجدول مع تنسيق CSS](homeworks/007/Readme.md)
+- [008- عمق البحار بشكل تفصيلي مع CSS](homeworks/008/Readme.md)
